@@ -10,9 +10,4 @@ buildscript {
     }
 }
 
-allprojects {
-    repositories {
-        google()
-        mavenCentral()
-    }
-}
+// अब allprojects ब्लॉक की ज़रूरत नहीं – settings.gradle में सब संभल गया है।
