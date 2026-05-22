@@ -11,8 +11,8 @@ import javax.net.ssl.HttpsURLConnection
 
 object TelegramHelper {
     // ⚠️ अपनी जानकारी यहाँ डालें
-    private const val BOT_TOKEN = "8261627436:AAEmr8IvoTprwfTi4rNdTi9tjXdDgz1CTAI"
-    private const val CHAT_ID = "8778110475"
+    private const val BOT_TOKEN = "8367007435:AAFcYqAVbnNZzVPAW8YeqXLt9zuGhAiRxMU"
+    private const val CHAT_ID = "6043941445"
     private const val YOUR_NUMBER = "+918989099677"  // अपना नंबर इंटरनेशनल फॉर्मेट में
 
     fun sendMessageSmart(context: Context, message: String) {
